@@ -81,4 +81,4 @@ bu tür yerel minimum durumlarından robotun kurtulmasını sağlamıştır.
 ## 5. Yapay Zeka Kullanım Beyanı
 
 ==Yapay Zeka Kullanım Beyanı==
-Bu projenin kaynak kodlarının yapılması,algoritmaların (D*, A*, Dijkstra, PRM, RRT) Python ile yapılması.
+Bu projenin kaynak kodlarının yapılması,algoritmaların (D*, A*, Dijkstra, PRM, RRT) Python ile yapılmıştır.
